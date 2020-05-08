@@ -25,9 +25,7 @@
     "if-env": "^1.0.4",
     "mongoose": "^5.3.16",
     "path": "^0.12.7",
-    "react-router-dom": "^5.1.2"
-  },
-  "optionalDependencies": {
-    "fsevents": "^2.0.7"
-}
+    "react-router-dom": "^5.1.2",
+    "fsevents": "^1.2.9"
+  }
 }
